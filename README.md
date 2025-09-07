@@ -7,3 +7,8 @@ Features:
 - Update Student
 - Search Student
 - Display All Students
+
+
+
+James Neil M. Maano 
+BSIT 2
