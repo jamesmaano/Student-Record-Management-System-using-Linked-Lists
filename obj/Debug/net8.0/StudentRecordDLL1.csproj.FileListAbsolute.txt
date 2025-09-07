@@ -1,0 +1,14 @@
+C:\Users\Henry Maano\source\repos\StudentRecordDLL1\StudentRecordDLL1\bin\Debug\net8.0\StudentRecordDLL1.exe
+C:\Users\Henry Maano\source\repos\StudentRecordDLL1\StudentRecordDLL1\bin\Debug\net8.0\StudentRecordDLL1.deps.json
+C:\Users\Henry Maano\source\repos\StudentRecordDLL1\StudentRecordDLL1\bin\Debug\net8.0\StudentRecordDLL1.runtimeconfig.json
+C:\Users\Henry Maano\source\repos\StudentRecordDLL1\StudentRecordDLL1\bin\Debug\net8.0\StudentRecordDLL1.dll
+C:\Users\Henry Maano\source\repos\StudentRecordDLL1\StudentRecordDLL1\bin\Debug\net8.0\StudentRecordDLL1.pdb
+C:\Users\Henry Maano\source\repos\StudentRecordDLL1\StudentRecordDLL1\obj\Debug\net8.0\StudentRecordDLL1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henry Maano\source\repos\StudentRecordDLL1\StudentRecordDLL1\obj\Debug\net8.0\StudentRecordDLL1.AssemblyInfoInputs.cache
+C:\Users\Henry Maano\source\repos\StudentRecordDLL1\StudentRecordDLL1\obj\Debug\net8.0\StudentRecordDLL1.AssemblyInfo.cs
+C:\Users\Henry Maano\source\repos\StudentRecordDLL1\StudentRecordDLL1\obj\Debug\net8.0\StudentRecordDLL1.csproj.CoreCompileInputs.cache
+C:\Users\Henry Maano\source\repos\StudentRecordDLL1\StudentRecordDLL1\obj\Debug\net8.0\StudentRecordDLL1.dll
+C:\Users\Henry Maano\source\repos\StudentRecordDLL1\StudentRecordDLL1\obj\Debug\net8.0\refint\StudentRecordDLL1.dll
+C:\Users\Henry Maano\source\repos\StudentRecordDLL1\StudentRecordDLL1\obj\Debug\net8.0\StudentRecordDLL1.pdb
+C:\Users\Henry Maano\source\repos\StudentRecordDLL1\StudentRecordDLL1\obj\Debug\net8.0\StudentRecordDLL1.genruntimeconfig.cache
+C:\Users\Henry Maano\source\repos\StudentRecordDLL1\StudentRecordDLL1\obj\Debug\net8.0\ref\StudentRecordDLL1.dll
